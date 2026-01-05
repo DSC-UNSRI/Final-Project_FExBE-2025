@@ -1,0 +1,44 @@
+[submodule "pink-team-comic-reading"]
+	path = pink-team-comic-reading
+	url = https://github.com/aristelcrowley/comic-reading.git
+
+[submodule "green-team-thriftoria"]
+	path = green-team-thriftoria
+	url = https://github.com/ElloRabyndra/Team_Green_Thriftoria.git
+
+[submodule "transparent-team-cinema-booking"]
+	path = transparent-team-cinema-booking
+	url = https://github.com/FadhilRizqi1/Finpro-Transparent.git
+
+[submodule "orange-team-fe-cashierease"]
+	path = orange-team-fe-cashierease
+	url = https://github.com/finpro-gdgoc/fe-cashierease.git
+
+[submodule "orange-team-be-cashierease"]
+	path = orange-team-be-cashierease
+	url = https://github.com/finpro-gdgoc/be-cashierease.git
+
+[submodule "yellow-team-edutest"]
+	path = yellow-team-edutest
+	url = https://github.com/Grimarks/Project_EduTest.git
+
+[submodule "white-team-lectura"]
+	path = white-team-lectura
+	url = https://github.com/lnrdgnwn/lectura.git
+
+[submodule "blue-team-online-course"]
+	path = blue-team-online-course
+	url = https://github.com/mauinGit/Final-Project-BE-X-FE.git
+
+[submodule "purple-team-volunteer-charity"]
+	path = purple-team-volunteer-charity
+	url = https://github.com/nbyl26/volunteer-charity-purpleTeam.git
+
+[submodule "black-team-mobilinaja"]
+	path = black-team-mobilinaja
+	url = https://github.com/NicolausOwen/mobilinaja.git
+
+[submodule "red-team-management-pempek"]
+	path = red-team-management-pempek
+	url = https://github.com/zildjianvitoo/finalproject-gdgoc.git
+
