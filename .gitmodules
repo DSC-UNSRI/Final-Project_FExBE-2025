@@ -10,14 +10,6 @@
 	path = transparent-team-cinema-booking
 	url = https://github.com/FadhilRizqi1/Finpro-Transparent.git
 
-[submodule "orange-team-fe-cashierease"]
-	path = orange-team-fe-cashierease
-	url = https://github.com/finpro-gdgoc/fe-cashierease.git
-
-[submodule "orange-team-be-cashierease"]
-	path = orange-team-be-cashierease
-	url = https://github.com/finpro-gdgoc/be-cashierease.git
-
 [submodule "yellow-team-edutest"]
 	path = yellow-team-edutest
 	url = https://github.com/Grimarks/Project_EduTest.git
@@ -42,3 +34,10 @@
 	path = red-team-management-pempek
 	url = https://github.com/zildjianvitoo/finalproject-gdgoc.git
 
+[submodule "orange-team-cashierease/frontend"]
+	path = orange-team-cashierease/frontend
+	url = https://github.com/finpro-gdgoc/fe-cashierease.git
+	
+[submodule "orange-team-cashierease/backend"]
+	path = orange-team-cashierease/backend
+	url = https://github.com/finpro-gdgoc/be-cashierease.git
